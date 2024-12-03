@@ -1,2 +1,2 @@
 # python_se
-python basic code
+python基础和网络爬虫项目
